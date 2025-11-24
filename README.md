@@ -72,18 +72,27 @@ Projet stratégique extrêmement complexe, mené sur près de **24 mois**, impli
 
 ### Actions menées
 
-* Organisation et animation de **réunions rassemblant tous les key users** et directeurs de service.
-* Analyse métier poussée pour comprendre les règles d’enchaînement et les risques de contamination croisée.
-* Création de **maquettes UX**, choix de la charte graphique, tests utilisateurs.
-* Gestion des résistances au changement, négociations, concessions.
-* Pilotage SI jusqu’au développement et à l’intégration dans l’outil interne.
+* Organisation, animation et **pilotage complet de la réunion de cadrage**, incluant la définition du périmètre, des objectifs et de la méthodologie projet.
+* **Identification, sélection et mobilisation des key-users** (Production, AQ, Chimie, Métrologie) en fonction des processus critiques.
+* Collaboration étroite avec le **VSI** pour valider la cohérence des règles métier, leur conformité et leur intégration future dans l’outil.
+* Animation de **réunions rassemblant tous les key users** et directeurs de service pour analyse fonctionnelle avancée.
+* Analyse métier approfondie pour comprendre les règles d’enchaînement et les risques de contamination croisée.
+* Création de **maquettes UX**, charte graphique, prototypes fonctionnels et tests utilisateurs.
+* Gestion des résistances au changement, négociation de concessions et alignement interservices.
+* Pilotage SI complet jusqu’au développement, intégration et validation finale.
+
+- Élaboration de la **roadmap projet**, définition des jalons clés, planification précise des étapes et coordination des livrables.
+
+- Respect systématique des **délais imposés**, avec livraison des éléments attendus dans les temps, garantissant la stabilité du planning global.
+
+- Pilotage SI complet jusqu’au développement, intégration et validation finale.
 
 ### Impact du projet
 
 * Standardisation des pratiques au niveau du site.
 * Réduction des risques de non-conformité.
 * Base solide pour la suite de la roadmap digitale en chimie.
-* Projet reconnu en interne comme un des **plus structurants et sensibles** de l’IT.
+* Projet reconnu en interne comme un des **plus structurants, complexes et sensibles** de l’IT.
 
 ---
 
